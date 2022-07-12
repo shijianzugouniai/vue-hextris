@@ -12,7 +12,7 @@ So far, I haven't copied enough, There is a little difference between origin ver
 
 1. online
 
-You can play at [here](https://pengfeiw.github.io/vue-hextris).
+You can play at [here](https://shijianzugouniai.github.io/vue-hextris/).
 
 2. local
 
