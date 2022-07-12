@@ -22,6 +22,9 @@ clone repository:
 ```
 git clone https://github.com/pengfeiw/vue-hextris.git
 ``` 
+```
+git clone  https://github.com/shijianzugouniai/vue-hextris.git 
+```
 
 install package:
 ```
