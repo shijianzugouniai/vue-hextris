@@ -12,7 +12,7 @@
 
 1. 在线
 
-你可以试玩[在线版本](https://pengfeiw.github.io/vue-hextris).
+你可以试玩[在线版本]([https://pengfeiw.github.io/vue-hextris](https://shijianzugouniai.github.io/vue-hextris/)).
 
 2. 本地
 
@@ -20,7 +20,7 @@
 
 克隆仓库：
 ```
-git clone https://github.com/pengfeiw/vue-hextris.git
+git clone  https://github.com/shijianzugouniai/vue-hextris.git 
 ``` 
 
 安装依赖包:
