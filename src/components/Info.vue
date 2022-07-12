@@ -38,7 +38,7 @@
 			<div>
 				<a
 					class="github-link"
-					href="https://github.com/pengfeiw/vue-hextris"
+					href="https://github.com/shijianzugouniai/vue-hextris"
 					target="_blank"
 				>
 					Find some issue? click here to help improve the code.
